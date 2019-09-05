@@ -11,12 +11,55 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Project", "Project", "{1D96
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Unicorn", "Unicorn", "{BFC24598-962E-4273-8094-499CE1EE7523}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelixHub.Foundation.Unicorn", "Foundation\Unicorn\code\HelixHub.Foundation.Unicorn.csproj", "{625DA544-6B4B-4D6C-88C3-9DACFBF354A8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DynamicRendering", "DynamicRendering", "{B3C8CABF-31C3-4DE1-8BB5-8ABC0F7F1935}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DynamicComponents", "DynamicComponents", "{667689A7-83DC-48D0-A7CC-ECEAC0F701D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelixHub.Foundation.DynamicRendering", "Foundation\DynamicRendering\code\HelixHub.Foundation.DynamicRendering.csproj", "{8D0C7798-25E8-459C-82F6-A99318ED7AC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelixHub.Feature.DynamicComponents", "Feature\DynamicComponents\code\HelixHub.Feature.DynamicComponents.csproj", "{F82B30F7-55FF-4355-9A0A-41159C5C6CE8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DemoSite", "DemoSite", "{8FCC3D42-51EC-44D2-A3DF-1C5DCB238028}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelixHub.Project.DemoSite", "Project\DemoSite\code\HelixHub.Project.DemoSite.csproj", "{7DF3C9DB-8690-4783-BBC6-E5588BBE6C95}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{625DA544-6B4B-4D6C-88C3-9DACFBF354A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{625DA544-6B4B-4D6C-88C3-9DACFBF354A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{625DA544-6B4B-4D6C-88C3-9DACFBF354A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{625DA544-6B4B-4D6C-88C3-9DACFBF354A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D0C7798-25E8-459C-82F6-A99318ED7AC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D0C7798-25E8-459C-82F6-A99318ED7AC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D0C7798-25E8-459C-82F6-A99318ED7AC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D0C7798-25E8-459C-82F6-A99318ED7AC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F82B30F7-55FF-4355-9A0A-41159C5C6CE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F82B30F7-55FF-4355-9A0A-41159C5C6CE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F82B30F7-55FF-4355-9A0A-41159C5C6CE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F82B30F7-55FF-4355-9A0A-41159C5C6CE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DF3C9DB-8690-4783-BBC6-E5588BBE6C95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DF3C9DB-8690-4783-BBC6-E5588BBE6C95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DF3C9DB-8690-4783-BBC6-E5588BBE6C95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DF3C9DB-8690-4783-BBC6-E5588BBE6C95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{BFC24598-962E-4273-8094-499CE1EE7523} = {3907D1E0-79E3-4D2E-9E6F-A28A6DD83E02}
+		{625DA544-6B4B-4D6C-88C3-9DACFBF354A8} = {BFC24598-962E-4273-8094-499CE1EE7523}
+		{B3C8CABF-31C3-4DE1-8BB5-8ABC0F7F1935} = {3907D1E0-79E3-4D2E-9E6F-A28A6DD83E02}
+		{667689A7-83DC-48D0-A7CC-ECEAC0F701D1} = {4CD6096F-213A-4FB2-B4B8-A05D15456FC1}
+		{8D0C7798-25E8-459C-82F6-A99318ED7AC1} = {B3C8CABF-31C3-4DE1-8BB5-8ABC0F7F1935}
+		{F82B30F7-55FF-4355-9A0A-41159C5C6CE8} = {667689A7-83DC-48D0-A7CC-ECEAC0F701D1}
+		{8FCC3D42-51EC-44D2-A3DF-1C5DCB238028} = {1D96EE87-E906-427B-9669-168415D4C019}
+		{7DF3C9DB-8690-4783-BBC6-E5588BBE6C95} = {8FCC3D42-51EC-44D2-A3DF-1C5DCB238028}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {82FF0449-9B3C-41C6-A6B9-68C52A7BEAB8}
