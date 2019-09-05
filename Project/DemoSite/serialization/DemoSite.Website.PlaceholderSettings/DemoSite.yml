@@ -1,0 +1,14 @@
+﻿---
+ID: "7f3cd758-3b3f-4765-ad6d-b9204be349a1"
+Parent: "3c4b05b8-c343-4f9e-a47a-be4cc734e7b1"
+Template: "c3b037a0-46e5-4b67-ac7a-a144b962a56f"
+Path: /sitecore/layout/Placeholder Settings/Project/DemoSite
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190905T133737Z
