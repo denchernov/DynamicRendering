@@ -1,0 +1,20 @@
+﻿---
+ID: "9addac09-7b3e-41ef-a5ce-1f36d5e94ddc"
+Parent: "d36c82ae-c7bc-41ac-86db-6297d59efc94"
+Template: "c2324b55-9661-4126-9f87-9a218b2823f4"
+Path: /sitecore/content/Rendering Views/Jumbotron/Title Subtitle with Placeholder/Container/row aligned right
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190904T230821Z
+    - ID: "577a60e6-49c7-419b-8b81-4c7033f4519f"
+      Hint: element
+      Value: div
+    - ID: "fd84fe11-8825-4742-a5e9-1bc0beb60d9d"
+      Hint: class
+      Value: "row justify-content-end"

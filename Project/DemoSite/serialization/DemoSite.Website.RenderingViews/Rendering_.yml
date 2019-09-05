@@ -1,0 +1,14 @@
+﻿---
+ID: "59b50090-258f-4306-b1ad-75fce1b25bf3"
+Parent: "0de95ae4-41ab-4d01-9eb0-67441b7c2450"
+Template: "37fdb1ea-0c3b-48a5-9baa-49f93ddf638c"
+Path: /sitecore/content/Rendering Views
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190901T222150Z

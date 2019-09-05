@@ -1,0 +1,20 @@
+﻿---
+ID: "72466572-ec48-42d6-aab8-6eecbcf41c34"
+Parent: "dbaafa72-cfeb-46c9-9946-4b01c602617c"
+Template: "c2324b55-9661-4126-9f87-9a218b2823f4"
+Path: "/sitecore/content/Rendering Views/Jumbotron/Heading/Container/row-center"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190905T005220Z
+    - ID: "577a60e6-49c7-419b-8b81-4c7033f4519f"
+      Hint: element
+      Value: div
+    - ID: "fd84fe11-8825-4742-a5e9-1bc0beb60d9d"
+      Hint: class
+      Value: "row justify-content-center"

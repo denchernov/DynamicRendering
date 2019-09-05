@@ -1,0 +1,21 @@
+﻿---
+ID: "1fd100a8-3f71-47ad-852f-d4f040a7f420"
+Parent: "9addac09-7b3e-41ef-a5ce-1f36d5e94ddc"
+Template: "1e133d55-ce0f-44bb-9075-96a9041edbe5"
+Path: /sitecore/content/Rendering Views/Jumbotron/Title Subtitle with Placeholder/Container/row aligned right/phCta
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190904T230907Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "d156d451-9f8e-487b-a6c3-1e832aa5d8e5"
+      Hint: name
+      Value: phCta
