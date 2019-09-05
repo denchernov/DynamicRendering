@@ -9,9 +9,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Foundation", "Foundation", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Project", "Project", "{1D96EE87-E906-427B-9669-168415D4C019}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Unicorn", "Unicorn", "{BFC24598-962E-4273-8094-499CE1EE7523}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Serialization", "Serialization", "{BFC24598-962E-4273-8094-499CE1EE7523}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelixHub.Foundation.Unicorn", "Foundation\Unicorn\code\HelixHub.Foundation.Unicorn.csproj", "{625DA544-6B4B-4D6C-88C3-9DACFBF354A8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelixHub.Foundation.Serialization", "Foundation\Serialization\code\HelixHub.Foundation.Serialization.csproj", "{625DA544-6B4B-4D6C-88C3-9DACFBF354A8}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DynamicRendering", "DynamicRendering", "{B3C8CABF-31C3-4DE1-8BB5-8ABC0F7F1935}"
 EndProject
