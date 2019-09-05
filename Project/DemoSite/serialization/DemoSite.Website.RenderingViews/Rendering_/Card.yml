@@ -1,0 +1,14 @@
+﻿---
+ID: "cea6dc45-ff09-4d4e-9522-2edca11b5e3b"
+Parent: "59b50090-258f-4306-b1ad-75fce1b25bf3"
+Template: "67bfcce7-e049-4a48-b305-45fad73c6d01"
+Path: /sitecore/content/Rendering Views/Card
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190905T152101Z
