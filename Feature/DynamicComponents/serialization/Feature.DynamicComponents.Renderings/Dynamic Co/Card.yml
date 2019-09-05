@@ -1,29 +1,29 @@
 ﻿---
-ID: "f4c432b8-8698-4418-ba81-1d6171fa3a52"
+ID: "8f7ca57b-0cc4-4bb9-9ce6-b9edea437f4a"
 Parent: "bb275b1a-969a-4c9a-b3f0-fb91cea59c2f"
 Template: "2a3e91a0-7987-44b5-ab34-35c2d9de83b9"
-Path: /sitecore/layout/Renderings/Feature/Dynamic Components/Jumborton
+Path: /sitecore/layout/Renderings/Feature/Dynamic Components/Card
 DB: master
 SharedFields:
 - ID: "13f89250-ad6b-4548-882e-118a12c18094"
   Hint: Parameters Template
-  Value: "{5BC78886-53AA-4105-A558-E2658833EAB9}"
+  Value: 
 - ID: "1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f"
   Hint: Datasource Template
   Value: /sitecore/templates/Feature/Dynamic Components/Jumbotron/_Jumbotron
 - ID: "b5b27af1-25ef-405c-87ce-369b3a004016"
   Hint: Datasource Location
-  Value: /sitecore/content/DataSources/Jumbotron
+  Value: /sitecore/content/DataSources/Card
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
     <image mediaid="{204F52E8-DFE8-4A2B-94E9-55979C34BB53}" />
 - ID: "ded9e431-3604-4921-a4b3-a6ec7636a5b6"
   Hint: Controller Action
-  Value: Jumbotron
+  Value: Card
 - ID: "e64ad073-dfcc-4d20-8c0b-fe5aa6226cd7"
   Hint: Controller
-  Value: HelixHub.Feature.DynamicComponents.Controllers.JumbotronController, HelixHub.Feature.DynamicComponents
+  Value: HelixHub.Feature.DynamicComponents.Controllers.CardController, HelixHub.Feature.DynamicComponents
 Languages:
 - Language: en
   Versions:
