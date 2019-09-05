@@ -4,6 +4,10 @@ Parent: "110d559f-dea5-42ea-9c1c-8a5df7e70ef9"
 Template: "89a102cc-c9d7-409d-bb2d-cf8f30494c09"
 Path: /sitecore/content/Home/Jumborton
 DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 500
 Languages:
 - Language: en
   Versions:

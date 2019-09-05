@@ -25,6 +25,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DemoSite", "DemoSite", "{8F
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelixHub.Project.DemoSite", "Project\DemoSite\code\HelixHub.Project.DemoSite.csproj", "{7DF3C9DB-8690-4783-BBC6-E5588BBE6C95}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Navigation", "Navigation", "{BF0A5113-B793-4BA0-84D1-8BC0EAC566A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelixHub.Feature.Navigation", "Feature\Navigation\code\HelixHub.Feature.Navigation.csproj", "{783DC9F7-7670-4699-8AEA-A6A3D096B7B1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,6 +51,10 @@ Global
 		{7DF3C9DB-8690-4783-BBC6-E5588BBE6C95}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7DF3C9DB-8690-4783-BBC6-E5588BBE6C95}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7DF3C9DB-8690-4783-BBC6-E5588BBE6C95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{783DC9F7-7670-4699-8AEA-A6A3D096B7B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{783DC9F7-7670-4699-8AEA-A6A3D096B7B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{783DC9F7-7670-4699-8AEA-A6A3D096B7B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{783DC9F7-7670-4699-8AEA-A6A3D096B7B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -60,6 +68,8 @@ Global
 		{F82B30F7-55FF-4355-9A0A-41159C5C6CE8} = {667689A7-83DC-48D0-A7CC-ECEAC0F701D1}
 		{8FCC3D42-51EC-44D2-A3DF-1C5DCB238028} = {1D96EE87-E906-427B-9669-168415D4C019}
 		{7DF3C9DB-8690-4783-BBC6-E5588BBE6C95} = {8FCC3D42-51EC-44D2-A3DF-1C5DCB238028}
+		{BF0A5113-B793-4BA0-84D1-8BC0EAC566A9} = {4CD6096F-213A-4FB2-B4B8-A05D15456FC1}
+		{783DC9F7-7670-4699-8AEA-A6A3D096B7B1} = {BF0A5113-B793-4BA0-84D1-8BC0EAC566A9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {82FF0449-9B3C-41C6-A6B9-68C52A7BEAB8}
