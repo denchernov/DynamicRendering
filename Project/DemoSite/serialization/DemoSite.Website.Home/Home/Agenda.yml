@@ -20,3 +20,6 @@ Languages:
       Hint: __Created by
       Value: |
         sitecore\admin
+    - ID: "962dd12a-11f6-4137-98dc-e3c01a7c569e"
+      Hint: Navigation Title
+      Value: AGENDA

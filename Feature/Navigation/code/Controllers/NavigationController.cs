@@ -38,7 +38,7 @@
 
             var header = new Header
                              {
-                                 HomeItem = new NavigationItem { Title = homeItem.DisplayName, Link = homeItem.Url() },
+                                 HomeItem = new NavigationItem { Title = GetNavigationTitle(homeItem), Link = homeItem.Url() },
                                  MenuItems = new List<NavigationItem>()
                              };
 
@@ -58,15 +58,28 @@
                 }
 
                 header.MenuItems.Add(
-                    new NavigationItem { IsActive = IsActive(item), Title = item.DisplayName, Link = item.Url() });
+                    new NavigationItem { IsActive = IsActive(item), Title = GetNavigationTitle(item), Link = item.Url() });
             }
 
             return header;
         }
 
-        private static bool IsActive(Item navigationLinkItem)
+        private static string GetNavigationTitle(Item navigationItem)
         {
-            if (navigationLinkItem == null)
+            if (navigationItem == null)
+            {
+                return string.Empty;
+            }
+
+            var navigationTitle = navigationItem["Navigation Title"];
+
+            // If navigation title is not set then return display name
+            return string.IsNullOrEmpty(navigationTitle) ? navigationItem.DisplayName : navigationTitle;
+        }
+
+        private static bool IsActive(Item navigationItem)
+        {
+            if (navigationItem == null)
             {
                 return false;
             }
@@ -78,7 +91,7 @@
             }
 
             return currentItem.Paths.ContentPath.StartsWith(
-                navigationLinkItem.Paths.ContentPath,
+                navigationItem.Paths.ContentPath,
                 StringComparison.InvariantCultureIgnoreCase);
         }
     }
