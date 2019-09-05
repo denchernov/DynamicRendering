@@ -1,0 +1,14 @@
+﻿---
+ID: "bb275b1a-969a-4c9a-b3f0-fb91cea59c2f"
+Parent: "5745ef40-e0be-437b-bfa0-1b9b221addcd"
+Template: "7ee0975b-0698-493e-b3a2-0b2ef33d0522"
+Path: /sitecore/layout/Renderings/Feature/Dynamic Components
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190901T230926Z

@@ -1,0 +1,14 @@
+﻿---
+ID: "d5e5c325-024a-4717-8bac-976bc402b0cb"
+Parent: "e77eee1c-4f50-4a68-918c-47e9a8fc0957"
+Template: "b0666cfe-8c7b-4cc1-8e32-8253742ebfa9"
+Path: /sitecore/content/Applications/WebEdit/Edit Frame Buttons/Foundation
+DB: core
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190905T114419Z

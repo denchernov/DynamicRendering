@@ -1,0 +1,17 @@
+﻿---
+ID: "4e2d03f4-bf32-4011-8df0-c335e618ce32"
+Parent: "f5566c41-6256-48af-b1a0-56f842b597da"
+Template: "f40b0ce2-3d69-46f8-b9f5-333a0cc15ee2"
+Path: /sitecore/templates/Foundation/Dynamic Rendering/Html Elements/p
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190902T000738Z
+    - ID: "c77ce5b0-67b2-4b25-b749-b7aa05479e25"
+      Hint: name
+      Value: p

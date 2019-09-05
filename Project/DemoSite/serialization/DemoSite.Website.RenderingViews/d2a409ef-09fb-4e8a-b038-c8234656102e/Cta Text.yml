@@ -1,0 +1,21 @@
+﻿---
+ID: "f75f5b2c-fe40-4f16-88f2-7385a3ecf62e"
+Parent: "d2a409ef-09fb-4e8a-b038-c8234656102e"
+Template: "5f82e319-ed3a-4ff4-8ab2-4d63f4e98f27"
+Path: /sitecore/content/Rendering Views/Jumbotron/Title Subtitle with Placeholder/Container/row aligned right/CTA 1/Cta Text
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1bb57d7e-8b41-4123-b095-e2a998e1c47a"
+      Hint: Name
+      Value: Cta Text
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190905T004515Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

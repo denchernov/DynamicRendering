@@ -1,0 +1,34 @@
+﻿---
+ID: "a30d1905-4340-481d-b510-7381c0a46570"
+Parent: "110d559f-dea5-42ea-9c1c-8a5df7e70ef9"
+Template: "89a102cc-c9d7-409d-bb2d-cf8f30494c09"
+Path: /sitecore/content/Home/Jumborton
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "24998254-e9e9-4f34-b1ab-d817cbf43904"
+      Hint: Image
+      Value: |
+        <image mediaid="{04DAD0FD-DB66-4070-881F-17264CA257E1}" ></image>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190904T204106Z
+    - ID: "34ba0fe2-dc33-4c4a-9c88-ec96a724fa84"
+      Hint: Title
+      Value: Some Title
+    - ID: "46fc2a61-46f0-4566-bf8e-76e3133e0aaa"
+      Hint: Cta Text
+      Value: CTA 1
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "822bc9d3-ec74-4c69-acf1-cb13d96aeeca"
+      Hint: Cta 2 Text
+      Value: CTA 2
+    - ID: "c2918372-4b51-4828-998b-0015352909f6"
+      Hint: Subtitle
+      Value: Subtitle

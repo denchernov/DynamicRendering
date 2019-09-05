@@ -1,0 +1,28 @@
+﻿---
+ID: "d36c82ae-c7bc-41ac-86db-6297d59efc94"
+Parent: "3c618f2b-fbaa-4ecd-95b6-7cb03e56e25c"
+Template: "c2324b55-9661-4126-9f87-9a218b2823f4"
+Path: /sitecore/content/Rendering Views/Jumbotron/Title Subtitle with Placeholder/Container
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190902T095059Z
+    - ID: "577a60e6-49c7-419b-8b81-4c7033f4519f"
+      Hint: element
+      Value: div
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "fd84fe11-8825-4742-a5e9-1bc0beb60d9d"
+      Hint: class
+      Value: container
