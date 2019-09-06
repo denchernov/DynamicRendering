@@ -1,4 +1,5 @@
-﻿using Sitecore.Data.Items;
+﻿using System;
+using Sitecore.Data.Items;
 
 namespace HelixHub.Foundation.DynamicRendering.Kernel
 {
@@ -11,6 +12,7 @@ namespace HelixHub.Foundation.DynamicRendering.Kernel
             CssClass = item["class"];
             TagWrapper = item["wrapper"];
             Style = item["style"];
+            Id = item["id"];
             _item = item;
         }
 
@@ -19,6 +21,8 @@ namespace HelixHub.Foundation.DynamicRendering.Kernel
         public string Style { get; }
 
         public string TagWrapper { get; }
+
+        public string Id { get; }
 
         public string this[string name] => _item[name];
 

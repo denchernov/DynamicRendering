@@ -1,0 +1,24 @@
+﻿---
+ID: "786a023a-20a4-4b05-b373-d94d4d75a9a2"
+Parent: "e360b524-23f0-4257-8423-aa04769d4ee4"
+Template: "c2324b55-9661-4126-9f87-9a218b2823f4"
+Path: /sitecore/content/Rendering Views/Card/Countdown/Container/Container/progress
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190906T122437Z
+    - ID: "577a60e6-49c7-419b-8b81-4c7033f4519f"
+      Hint: element
+      Value: div
+    - ID: "fd84fe11-8825-4742-a5e9-1bc0beb60d9d"
+      Hint: class
+      Value: progress
