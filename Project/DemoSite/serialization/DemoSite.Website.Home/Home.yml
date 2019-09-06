@@ -14,9 +14,7 @@ SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
   Type: TreelistEx
-  Value: |
-    {76036F5E-CBCE-46D1-AF0A-4143F9B557AA}
-    {A87A00B1-E6DB-45AB-8B54-636FEC3B5523}
+  Value: "{53B3F315-7E49-4512-8122-A096E3597DAA}"
 - ID: "56c15c6d-fd5a-40ca-bb37-64ceec6a9bd5"
   Hint: __Archive date
   Value: 
@@ -173,6 +171,9 @@ Languages:
       Hint: __Created by
       Value: |
         sitecore\admin
+    - ID: "962dd12a-11f6-4137-98dc-e3c01a7c569e"
+      Hint: Navigation Title
+      Value: VLK
     - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
       Hint: __Valid from
       Value: 

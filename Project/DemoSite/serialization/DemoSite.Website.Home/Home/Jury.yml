@@ -1,0 +1,25 @@
+﻿---
+ID: "b21c89ac-4764-4aeb-bbf3-cedda7ae016b"
+Parent: "110d559f-dea5-42ea-9c1c-8a5df7e70ef9"
+Template: "53b3f315-7e49-4512-8122-a096e3597daa"
+Path: /sitecore/content/Home/Jury
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190905T152508Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "962dd12a-11f6-4137-98dc-e3c01a7c569e"
+      Hint: Navigation Title
+      Value: JURY
