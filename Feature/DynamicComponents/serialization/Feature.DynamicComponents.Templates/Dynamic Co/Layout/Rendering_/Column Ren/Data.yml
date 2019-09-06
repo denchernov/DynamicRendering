@@ -2,7 +2,7 @@
 ID: "a3314a69-eeab-43aa-9fe9-10a062a9621c"
 Parent: "76bdd314-6033-4f39-8d79-a662b2164e06"
 Template: "e269fbb5-3750-427a-9149-7aa950b49301"
-Path: /sitecore/templates/Feature/Dynamic Components/Layout/Rendering Parameters/Row Rendering Parameters/Data
+Path: /sitecore/templates/Feature/Dynamic Components/Layout/Rendering Parameters/Column Rendering Parameters/Data
 DB: master
 Languages:
 - Language: en

@@ -1,0 +1,14 @@
+﻿---
+ID: "8f2f673f-553a-4e31-9a3e-cd43ae8e05dc"
+Parent: "ae257390-a5f3-42b3-aa5e-9024f811fc81"
+Template: "ae257390-a5f3-42b3-aa5e-9024f811fc81"
+Path: /sitecore/templates/Feature/Dynamic Components/Layout/Rendering Parameters/Content Rendering Parameters/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190906T060831Z

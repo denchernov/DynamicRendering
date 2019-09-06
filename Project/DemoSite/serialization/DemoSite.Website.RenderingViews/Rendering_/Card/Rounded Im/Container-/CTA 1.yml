@@ -1,0 +1,24 @@
+﻿---
+ID: "769a765f-567b-48a8-8fc3-c682265a4cef"
+Parent: "5f72540d-db5f-4f6b-9c58-64124f4645e5"
+Template: "c2324b55-9661-4126-9f87-9a218b2823f4"
+Path: "/sitecore/content/Rendering Views/Card/Rounded Image Text Description/Container-text-center/CTA 1"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190905T004155Z
+    - ID: "577a60e6-49c7-419b-8b81-4c7033f4519f"
+      Hint: element
+      Value: button
+    - ID: "fd84fe11-8825-4742-a5e9-1bc0beb60d9d"
+      Hint: class
+      Value: "btn btn-primary"

@@ -2,7 +2,7 @@
 ID: "23ebd933-d062-46f6-8e78-faa313077186"
 Parent: "c7f7379b-c57c-4da9-85d3-3fae0f9487e2"
 Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
-Path: /sitecore/content/DataSources/Card
+Path: /sitecore/content/DataSources/Content
 DB: master
 Languages:
 - Language: en

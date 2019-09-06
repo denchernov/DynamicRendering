@@ -1,0 +1,14 @@
+﻿---
+ID: "ae85d1bd-6605-4ae2-af01-6d7335f8080d"
+Parent: "cea6dc45-ff09-4d4e-9522-2edca11b5e3b"
+Template: "0a5352d5-b46f-4a96-8f11-202367501d23"
+Path: /sitecore/content/Rendering Views/Card/Rounded Image Text Description
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190906T055729Z

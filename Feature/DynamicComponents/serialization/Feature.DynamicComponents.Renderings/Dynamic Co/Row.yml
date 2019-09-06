@@ -1,5 +1,5 @@
 ﻿---
-ID: "b7c77ff6-4ff9-4758-afce-8f44edcbb730"
+ID: "09ad71ff-72ca-4f79-8013-79475747af3e"
 Parent: "bb275b1a-969a-4c9a-b3f0-fb91cea59c2f"
 Template: "2a3e91a0-7987-44b5-ab34-35c2d9de83b9"
 Path: /sitecore/layout/Renderings/Feature/Dynamic Components/Row
@@ -7,10 +7,10 @@ DB: master
 SharedFields:
 - ID: "13f89250-ad6b-4548-882e-118a12c18094"
   Hint: Parameters Template
-  Value: "{5BC78886-53AA-4105-A558-E2658833EAB9}"
+  Value: 
 - ID: "1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f"
   Hint: Datasource Template
-  Value: /sitecore/templates/Feature/Dynamic Components/Jumbotron/_Jumbotron
+  Value: 
 - ID: "b5b27af1-25ef-405c-87ce-369b3a004016"
   Hint: Datasource Location
   Value: /sitecore/content/DataSources/Row
