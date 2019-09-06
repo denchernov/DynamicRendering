@@ -54,28 +54,28 @@ Languages:
               p:after="r[@uid='{EE5D3223-9425-4CD7-814C-820C026410E4}']"
               s:ds=""
               s:id="{B7C77FF6-4FF9-4758-AFCE-8F44EDCBB730}"
-              s:par="Col Number=3&amp;Dynamic View"
+              s:par="Col Number=3&amp;Dynamic View&amp;size=md"
               s:ph="/main/dv-row-{100F92F8-362D-4600-9380-DE79366E5A77}-0" />
             <r
               uid="{17FF96FB-A730-4BA5-989F-AABA2DE38058}"
               p:after="r[@uid='{1517CAD8-2B8C-43B7-9154-B4A7B3CAA877}']"
               s:ds=""
               s:id="{B7C77FF6-4FF9-4758-AFCE-8F44EDCBB730}"
-              s:par="Col Number=3&amp;Dynamic View"
+              s:par="Col Number=3&amp;Dynamic View&amp;size=md"
               s:ph="/main/dv-row-{100F92F8-362D-4600-9380-DE79366E5A77}-0" />
             <r
               uid="{810D6D9E-D8FF-4E5B-9A9F-F082048762D6}"
               p:after="r[@uid='{17FF96FB-A730-4BA5-989F-AABA2DE38058}']"
               s:ds=""
               s:id="{B7C77FF6-4FF9-4758-AFCE-8F44EDCBB730}"
-              s:par="Col Number=3&amp;Dynamic View"
+              s:par="Col Number=3&amp;Dynamic View&amp;size=md"
               s:ph="/main/dv-row-{100F92F8-362D-4600-9380-DE79366E5A77}-0" />
             <r
               uid="{50A28541-FA3A-4F00-A65C-B4C830DDCDCC}"
               p:after="r[@uid='{810D6D9E-D8FF-4E5B-9A9F-F082048762D6}']"
               s:ds=""
               s:id="{B7C77FF6-4FF9-4758-AFCE-8F44EDCBB730}"
-              s:par="Col Number=3&amp;Dynamic View"
+              s:par="Col Number=3&amp;Dynamic View&amp;size=md"
               s:ph="/main/dv-row-{100F92F8-362D-4600-9380-DE79366E5A77}-0" />
             <r
               uid="{100F92F8-362D-4600-9380-DE79366E5A77}"
