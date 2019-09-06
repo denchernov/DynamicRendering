@@ -1,0 +1,20 @@
+﻿---
+ID: "351d7089-36ab-4277-8c09-ad8bc4445a39"
+Parent: "ee3161a5-36b6-4286-97b8-e324d68bc350"
+Template: "c2324b55-9661-4126-9f87-9a218b2823f4"
+Path: /sitecore/content/Rendering Views/Card/Block Image Right/row/col2
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190906T105212Z
+    - ID: "577a60e6-49c7-419b-8b81-4c7033f4519f"
+      Hint: element
+      Value: div
+    - ID: "fd84fe11-8825-4742-a5e9-1bc0beb60d9d"
+      Hint: class
+      Value: "col-md-5"

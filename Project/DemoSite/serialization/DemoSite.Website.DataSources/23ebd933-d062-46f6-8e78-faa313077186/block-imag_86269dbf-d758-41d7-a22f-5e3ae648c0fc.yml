@@ -1,0 +1,18 @@
+﻿---
+ID: "86269dbf-d758-41d7-a22f-5e3ae648c0fc"
+Parent: "23ebd933-d062-46f6-8e78-faa313077186"
+Template: "186fc816-f850-4c8a-ae52-2921eee57351"
+Path: "/sitecore/content/DataSources/Content/block-image-right-1"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190906T105933Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

@@ -14,7 +14,11 @@ namespace HelixHub.Feature.DynamicComponents.Controllers
             var renderingParameters = RenderingContext.Current.Rendering.Parameters;
             var colNumberString = renderingParameters["Col Number"];
             var size = renderingParameters["size"];
-            var model = new ColumnModel {ColumnNumber = Convert.ToInt32(colNumberString)};
+            var model = new ColumnModel
+            {
+                ColumnNumber = Convert.ToInt32(colNumberString),
+                Size = size
+            };
 
 
             return View("~/Views/DynamicComponents/Layout/Column.cshtml", model);

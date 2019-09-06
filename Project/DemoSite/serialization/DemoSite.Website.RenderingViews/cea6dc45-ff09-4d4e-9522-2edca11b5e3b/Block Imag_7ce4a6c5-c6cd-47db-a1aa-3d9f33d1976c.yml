@@ -1,0 +1,14 @@
+﻿---
+ID: "7ce4a6c5-c6cd-47db-a1aa-3d9f33d1976c"
+Parent: "cea6dc45-ff09-4d4e-9522-2edca11b5e3b"
+Template: "0a5352d5-b46f-4a96-8f11-202367501d23"
+Path: /sitecore/content/Rendering Views/Card/Block Image Right
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190906T104642Z

@@ -16,16 +16,7 @@
             var renderingParameters = RenderingContext.Current.Rendering.Parameters;
             var viewIdString = renderingParameters["Dynamic View"];
 
-            if (!ID.TryParse(viewIdString, out var viewId))
-            {
-                return new HtmlString("Dynamic View is not set.");
-            }
-
-            var viewItem = Sitecore.Context.Database.GetItem(viewId);
-            if (viewItem == null)
-            {
-                return new HtmlString("Dynamic View is null.");
-            }
+            var viewItem = Sitecore.Context.Database.GetItem(new ID(viewIdString));
 
             return new RenderingEngine(helper).RenderDynamicView(item, viewItem);
         }
