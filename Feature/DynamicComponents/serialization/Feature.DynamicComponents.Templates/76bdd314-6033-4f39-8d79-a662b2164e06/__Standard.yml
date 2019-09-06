@@ -1,0 +1,21 @@
+﻿---
+ID: "9ee19510-dd74-47d6-bea3-272b49728b38"
+Parent: "76bdd314-6033-4f39-8d79-a662b2164e06"
+Template: "76bdd314-6033-4f39-8d79-a662b2164e06"
+Path: /sitecore/templates/Feature/Dynamic Components/Layout/Rendering Parameters/Column Rendering Parameters/__Standard Values
+DB: master
+SharedFields:
+- ID: "3094d236-5985-4c4f-ae6a-e30740885532"
+  Hint: Caching
+  Value: 0|0|0|0|0|0|0|0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190905T164506Z
+    - ID: "436b9631-ccaf-4866-9440-97a5a8d273aa"
+      Hint: Col Number
+      Value: 12

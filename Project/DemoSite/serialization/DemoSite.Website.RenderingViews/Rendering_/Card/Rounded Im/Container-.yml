@@ -1,0 +1,14 @@
+﻿---
+ID: "5f72540d-db5f-4f6b-9c58-64124f4645e5"
+Parent: "ae85d1bd-6605-4ae2-af01-6d7335f8080d"
+Template: "c2324b55-9661-4126-9f87-9a218b2823f4"
+Path: "/sitecore/content/Rendering Views/Card/Rounded Image Text Description/Container-text-center"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190906T055841Z

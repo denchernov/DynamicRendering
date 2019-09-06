@@ -1,8 +1,8 @@
 ﻿---
-ID: "76bdd314-6033-4f39-8d79-a662b2164e06"
+ID: "ae257390-a5f3-42b3-aa5e-9024f811fc81"
 Parent: "62255d70-6650-427d-a7f9-c0285c4213b5"
 Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Feature/Dynamic Components/Layout/Rendering Parameters/Row Rendering Parameters
+Path: /sitecore/templates/Feature/Dynamic Components/Layout/Rendering Parameters/Content Rendering Parameters
 DB: master
 SharedFields:
 - ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
@@ -11,7 +11,7 @@ SharedFields:
   Value: "{76BF70FE-68A9-454A-AE0C-831E272F80A9}"
 - ID: "f7d48a55-2158-4f02-9356-756654404f73"
   Hint: __Standard values
-  Value: 
+  Value: "{8F2F673F-553A-4E31-9A3E-CD43AE8E05DC}"
 Languages:
 - Language: en
   Versions:
@@ -19,7 +19,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20190901T223945Z
+      Value: 20190906T060658Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |

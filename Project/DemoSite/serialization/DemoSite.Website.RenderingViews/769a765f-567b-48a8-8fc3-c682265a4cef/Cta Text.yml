@@ -1,0 +1,21 @@
+﻿---
+ID: "06a7d797-ea62-42fc-9711-c3073b28f001"
+Parent: "769a765f-567b-48a8-8fc3-c682265a4cef"
+Template: "5f82e319-ed3a-4ff4-8ab2-4d63f4e98f27"
+Path: "/sitecore/content/Rendering Views/Card/Rounded Image Text Description/Container-text-center/CTA 1/Cta Text"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1bb57d7e-8b41-4123-b095-e2a998e1c47a"
+      Hint: Name
+      Value: View details >>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190905T004515Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
