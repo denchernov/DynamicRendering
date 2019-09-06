@@ -12,7 +12,7 @@ namespace HelixHub.Feature.DynamicComponents.Controllers
         public ActionResult Column()
         {
             var renderingParameters = RenderingContext.Current.Rendering.Parameters;
-            var colNumberString = renderingParameters["ColNumber"];
+            var colNumberString = renderingParameters["Col Number"];
             var model = new ColumnModel {ColumnNumber = Convert.ToInt32(colNumberString)};
 
 
