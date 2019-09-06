@@ -1,20 +1,17 @@
 ﻿---
-ID: "08a5e8bf-9fb3-4b5d-b418-8a90fca221ae"
-Parent: "7f3cd758-3b3f-4765-ad6d-b9204be349a1"
+ID: "6f698917-7674-4e20-90dd-a26cac1f8b32"
+Parent: "1116a831-dadd-4357-b053-0eb4b64ffdf5"
 Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
-Path: /sitecore/layout/Placeholder Settings/Project/DemoSite/main
+Path: /sitecore/layout/Placeholder Settings/Feature/Dynamic Components/container
 DB: master
 SharedFields:
 - ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
   Hint: Placeholder Key
-  Value: main
+  Value: container
 - ID: "e391b526-d0c5-439d-803e-17512eae6222"
   Hint: Allowed Controls
   Type: TreelistEx
-  Value: |
-    {F4C432B8-8698-4418-BA81-1D6171FA3A52}
-    {09AD71FF-72CA-4F79-8013-79475747AF3E}
-    {8F7CA57B-0CC4-4BB9-9CE6-B9EDEA437F4A}
+  Value: "{09AD71FF-72CA-4F79-8013-79475747AF3E}"
 Languages:
 - Language: en
   Versions:
@@ -22,4 +19,4 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20190905T125557Z
+      Value: 20190906T112401Z

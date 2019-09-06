@@ -1,0 +1,32 @@
+﻿---
+ID: "dbed69a5-0cec-40c1-a705-314dc21f6c9e"
+Parent: "641c84c2-d216-4e8b-affa-bcc206382bc8"
+Template: "186fc816-f850-4c8a-ae52-2921eee57351"
+Path: /sitecore/content/DataSources/Content/Teams/team12
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0ffb4888-693d-46a7-a38d-a16b695b0367"
+      Hint: Link
+      Value: |
+        <link linktype="internal" text="More info" querystring="" target="" id="{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190906T112045Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "6854bef8-3d15-4731-8b79-fe4dcccc4e79"
+      Hint: Description
+      Value: Blue angels
+    - ID: "849868a8-e7cb-469f-ba78-61030b6e5b3c"
+      Hint: Title
+      Value: Blue angels
+    - ID: "e3de3ce6-45c4-4b84-920a-1debbd1be68f"
+      Hint: Image
+      Value: |
+        <image mediaid="{E5F8375B-5637-4BEB-AA9A-A8F963F60EB9}" ></image>

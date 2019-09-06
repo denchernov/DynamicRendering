@@ -1,0 +1,24 @@
+﻿---
+ID: "33d3b0f5-ec4b-49b2-b069-717d29c328f6"
+Parent: "0b3750c6-9dca-458f-a5a5-2eeff3658955"
+Template: "5f82e319-ed3a-4ff4-8ab2-4d63f4e98f27"
+Path: "/sitecore/content/Rendering Views/Card/Square Block/Container-card/Image"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1bb57d7e-8b41-4123-b095-e2a998e1c47a"
+      Hint: Name
+      Value: Image
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190906T111518Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "fd84fe11-8825-4742-a5e9-1bc0beb60d9d"
+      Hint: class
+      Value: "card-img-top"

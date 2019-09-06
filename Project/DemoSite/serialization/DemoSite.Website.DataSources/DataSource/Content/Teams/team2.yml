@@ -1,0 +1,18 @@
+﻿---
+ID: "24e8e9df-c48b-43de-89cb-64c77446f7b6"
+Parent: "641c84c2-d216-4e8b-affa-bcc206382bc8"
+Template: "186fc816-f850-4c8a-ae52-2921eee57351"
+Path: /sitecore/content/DataSources/Content/Teams/team2
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190906T112914Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
