@@ -1,0 +1,21 @@
+﻿---
+ID: "d279002b-0b1c-40fc-875e-37941c5fa4f7"
+Parent: "808b19ab-adc6-4ee8-bf7f-f23420a05f23"
+Template: "1e133d55-ce0f-44bb-9075-96a9041edbe5"
+Path: /sitecore/content/Rendering Views/Card/Container/Container/Placeholder
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190906T112310Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "d156d451-9f8e-487b-a6c3-1e832aa5d8e5"
+      Hint: name
+      Value: container
