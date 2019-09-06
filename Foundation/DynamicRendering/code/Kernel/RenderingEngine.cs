@@ -84,6 +84,12 @@ namespace HelixHub.Foundation.DynamicRendering.Kernel
                 var attributes = string.Empty;
                 if (!string.IsNullOrEmpty(viewPart.CssClass))
                 {
+                    // a temporary hack
+                    if (viewPart.CssClass.Contains("progress-bar"))
+                    {
+                        attributes +=
+                            " role = \"progressbar\" aria - valuenow = \"75\" aria - valuemin = \"0\" aria - valuemax = \"100\" style = \"width: 75%\"";
+                    }
                     attributes += $" class=\"{viewPart.CssClass}\"";
                 }
 
@@ -92,7 +98,14 @@ namespace HelixHub.Foundation.DynamicRendering.Kernel
                     attributes += $" style=\"{viewPart.Style}\"";
                 }
 
+                if (!string.IsNullOrEmpty(viewPart.Id))
+                {
+                    attributes += $" id=\"{viewPart.Id}\"";
+                }
+
                 var tagAddition = containerTag == "button" ? "  type=\"button\"" : string.Empty;
+
+
                 return new HtmlString($"<{containerTag}{tagAddition}{attributes}>{RenderDynamicView(contextItem, viewPart.GetItem())}</{containerTag}>");
             }
 

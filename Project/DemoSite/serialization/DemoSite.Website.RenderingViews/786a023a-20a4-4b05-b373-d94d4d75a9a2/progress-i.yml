@@ -1,0 +1,20 @@
+﻿---
+ID: "77736dbc-b20d-4046-85e7-9e8262502121"
+Parent: "786a023a-20a4-4b05-b373-d94d4d75a9a2"
+Template: "c2324b55-9661-4126-9f87-9a218b2823f4"
+Path: "/sitecore/content/Rendering Views/Card/Countdown/Container/Container/progress/progress-inner"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190906T122527Z
+    - ID: "577a60e6-49c7-419b-8b81-4c7033f4519f"
+      Hint: element
+      Value: div
+    - ID: "fd84fe11-8825-4742-a5e9-1bc0beb60d9d"
+      Hint: class
+      Value: "progress-bar progress-bar-striped progress-bar-animated bg-success"

@@ -1,0 +1,20 @@
+﻿---
+ID: "bf267ef2-335c-4f4e-8811-1359a1640261"
+Parent: "412df48d-2c19-4ad1-8e7c-b508fdd36f9a"
+Template: "c2324b55-9661-4126-9f87-9a218b2823f4"
+Path: /sitecore/content/Rendering Views/Card/Countdown/Container
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190906T120039Z
+    - ID: "577a60e6-49c7-419b-8b81-4c7033f4519f"
+      Hint: element
+      Value: div
+    - ID: "fd84fe11-8825-4742-a5e9-1bc0beb60d9d"
+      Hint: class
+      Value: "d-flex justify-content-center align-items-center"

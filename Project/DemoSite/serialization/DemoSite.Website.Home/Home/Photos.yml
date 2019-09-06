@@ -1,0 +1,60 @@
+﻿---
+ID: "c1aeeb29-3e3c-4b22-bc4c-368ae31f9859"
+Parent: "110d559f-dea5-42ea-9c1c-8a5df7e70ef9"
+Template: "53b3f315-7e49-4512-8122-a096e3597daa"
+Path: /sitecore/content/Home/Photos
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 600
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{CCD8A3AC-E329-4505-BC35-B027495AB1AF}"
+              p:before="*"
+              s:ds="{33893CD1-4A5E-4046-A7AD-995547E424A5}"
+              s:id="{8F7CA57B-0CC4-4BB9-9CE6-B9EDEA437F4A}"
+              s:par="Dynamic View=%7B412DF48D-2C19-4AD1-8E7C-B508FDD36F9A%7D"
+              s:ph="/main/dv-row-{54FAD9D4-B69B-41F4-8ACF-A930C45C0780}-0/dv-column-{378847B0-8C56-4D56-956B-AF0586656A77}-0" />
+            <r
+              uid="{EC7BF79C-349E-4A84-B890-2046F09DCFB7}"
+              p:after="r[@uid='{CCD8A3AC-E329-4505-BC35-B027495AB1AF}']"
+              s:ds=""
+              s:id="{B7C77FF6-4FF9-4758-AFCE-8F44EDCBB730}"
+              s:par="Col Number=8&amp;Dynamic View&amp;size=lg"
+              s:ph="/main/dv-row-{54FAD9D4-B69B-41F4-8ACF-A930C45C0780}-0" />
+            <r
+              uid="{378847B0-8C56-4D56-956B-AF0586656A77}"
+              p:after="r[@uid='{EC7BF79C-349E-4A84-B890-2046F09DCFB7}']"
+              s:ds=""
+              s:id="{B7C77FF6-4FF9-4758-AFCE-8F44EDCBB730}"
+              s:par="Col Number=4&amp;Dynamic View&amp;size=lg"
+              s:ph="/main/dv-row-{54FAD9D4-B69B-41F4-8ACF-A930C45C0780}-0" />
+            <r
+              uid="{54FAD9D4-B69B-41F4-8ACF-A930C45C0780}"
+              p:after="r[@uid='{378847B0-8C56-4D56-956B-AF0586656A77}']"
+              s:id="{09AD71FF-72CA-4F79-8013-79475747AF3E}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190906T114459Z
+    - ID: "962dd12a-11f6-4137-98dc-e3c01a7c569e"
+      Hint: Navigation Title
+      Value: PHOTOS
+    - ID: "97558500-fb59-45e5-bc45-6d00b57f37ea"
+      Hint: Title
+      Value: Photos
