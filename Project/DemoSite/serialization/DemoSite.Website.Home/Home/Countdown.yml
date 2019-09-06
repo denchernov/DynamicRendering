@@ -2,7 +2,7 @@
 ID: "c1aeeb29-3e3c-4b22-bc4c-368ae31f9859"
 Parent: "110d559f-dea5-42ea-9c1c-8a5df7e70ef9"
 Template: "53b3f315-7e49-4512-8122-a096e3597daa"
-Path: /sitecore/content/Home/Photos
+Path: /sitecore/content/Home/Countdown
 DB: master
 SharedFields:
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
@@ -54,7 +54,7 @@ Languages:
       Value: 20190906T114459Z
     - ID: "962dd12a-11f6-4137-98dc-e3c01a7c569e"
       Hint: Navigation Title
-      Value: PHOTOS
+      Value: COUNTDOWN
     - ID: "97558500-fb59-45e5-bc45-6d00b57f37ea"
       Hint: Title
       Value: Photos
