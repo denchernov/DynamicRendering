@@ -19,3 +19,6 @@ Languages:
       Hint: __Created by
       Value: |
         sitecore\admin
+    - ID: "f6a5e6ed-c2b2-4211-9ff3-1520ec987358"
+      Hint: style
+      Value: "display: block;   margin-left: auto;   margin-right: auto;   "
