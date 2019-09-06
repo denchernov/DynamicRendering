@@ -1,0 +1,53 @@
+﻿---
+ID: "f99fbc67-7027-498f-a508-f3beaa37126e"
+Parent: "23ebd933-d062-46f6-8e78-faa313077186"
+Template: "186fc816-f850-4c8a-ae52-2921eee57351"
+Path: /sitecore/content/DataSources/Content/agenda
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190906T122412Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "908cb177-309f-4cf0-b5d9-93ce55aa3642"
+      Hint: Rich Text
+      Value: |
+        <p><strong>Thursday 5th of September</strong>
+        </p>
+        <ul>
+            <li>09:15 &ndash; 09:30 &ndash; Kick-off Hackathon @ WTC A3 Demo area
+            </li>
+            <li>09:30 &ndash; 12:00 &ndash; Uninterrupted development time
+            </li>
+            <li>12:00 &ndash; 13:00 &ndash; Lunch @ WTC A3
+            </li>
+            <li>13:00 &ndash; onwards - Uninterrupted
+            development time
+            </li>
+            <li>17:30 &ndash; Dinner time @ WTC A3 (edited)
+            </li>
+        </ul>
+        <p><strong>Friday 6th of September
+        </strong></p>
+        <ul>
+        <li>&hellip;&hellip;&hellip;.. &ndash; 12:00 &ndash; Uninterrupted development time
+        </li>
+        <li>12:00 &ndash; 13:00 &ndash; Lunch @ WTC A3
+        </li>
+        <li>13:00 &ndash; onwards - Uninterrupted
+        development time &amp; prepare for
+        your demo &amp; pitch
+        </li>
+        <li>15:30 &ndash; Demo time @ WTC A3
+        </li>
+        <li>17:00 &ndash; Drinks &amp; snacks
+        </li>
+        <li>17:15 &ndash; Announcing the winners</li>
+        </ul>

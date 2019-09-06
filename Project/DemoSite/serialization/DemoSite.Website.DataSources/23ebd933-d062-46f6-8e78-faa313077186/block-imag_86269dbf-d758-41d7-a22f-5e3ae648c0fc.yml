@@ -42,4 +42,4 @@ Languages:
     - ID: "e3de3ce6-45c4-4b84-920a-1debbd1be68f"
       Hint: Image
       Value: |
-        <image mediaid="{56B2E2FC-C584-4B0F-95E4-00E294D7C6EA}" height="500" hspace="" width="500" alt="" vspace="" />
+        <image mediaid="{56B2E2FC-C584-4B0F-95E4-00E294D7C6EA}" height="500" hspace="" width="500" alt="" vspace="" ></image>

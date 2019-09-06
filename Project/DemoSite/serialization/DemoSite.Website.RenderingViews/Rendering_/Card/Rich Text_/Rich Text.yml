@@ -1,0 +1,24 @@
+﻿---
+ID: "76005076-1ee6-4182-a502-a2d89db65907"
+Parent: "1f073c73-a313-4e48-9f59-6eaf3b029a1d"
+Template: "5f82e319-ed3a-4ff4-8ab2-4d63f4e98f27"
+Path: /sitecore/content/Rendering Views/Card/Rich Text Block/Rich Text
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1bb57d7e-8b41-4123-b095-e2a998e1c47a"
+      Hint: Name
+      Value: Rich Text
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190906T122313Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "e531ffc4-e450-4ed8-9146-5953a5d08a25"
+      Hint: wrapper
+      Value: p

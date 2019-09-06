@@ -22,17 +22,17 @@ Languages:
       Value: 20190904T204106Z
     - ID: "34ba0fe2-dc33-4c4a-9c88-ec96a724fa84"
       Hint: Title
-      Value: Some Title
+      Value: Hackaton
     - ID: "46fc2a61-46f0-4566-bf8e-76e3133e0aaa"
       Hint: Cta Text
-      Value: CTA 1
+      Value: Read more
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\admin
     - ID: "822bc9d3-ec74-4c69-acf1-cb13d96aeeca"
       Hint: Cta 2 Text
-      Value: CTA 2
+      Value: 
     - ID: "c2918372-4b51-4828-998b-0015352909f6"
       Hint: Subtitle
-      Value: Subtitle
+      Value: Edition 2019
