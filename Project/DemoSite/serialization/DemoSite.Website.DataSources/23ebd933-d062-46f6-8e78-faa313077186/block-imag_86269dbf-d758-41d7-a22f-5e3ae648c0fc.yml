@@ -16,3 +16,13 @@ Languages:
       Hint: __Created by
       Value: |
         sitecore\admin
+    - ID: "6854bef8-3d15-4731-8b79-fe4dcccc4e79"
+      Hint: Description
+      Value: Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.
+    - ID: "849868a8-e7cb-469f-ba78-61030b6e5b3c"
+      Hint: Title
+      Value: First featurette heading. It'll blow your mind.
+    - ID: "e3de3ce6-45c4-4b84-920a-1debbd1be68f"
+      Hint: Image
+      Value: |
+        <image mediaid="{E584000A-4379-498E-92CC-86A157A1EDF0}" alt="" height="500" width="500" hspace="" vspace="" ></image>
