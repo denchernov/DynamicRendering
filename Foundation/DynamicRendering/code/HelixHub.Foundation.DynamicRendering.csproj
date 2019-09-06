@@ -100,6 +100,7 @@
     <None Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Exception\DynamicViewException.cs" />
     <Compile Include="Extensions\HtmlStringExtensions.cs" />
     <Compile Include="Extensions\SitecoreHelperExtensions.cs" />
     <Compile Include="Kernel\RenderingEngine.cs" />

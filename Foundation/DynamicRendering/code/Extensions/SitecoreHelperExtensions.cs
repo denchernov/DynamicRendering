@@ -2,6 +2,7 @@
 {
     using System.Web;
 
+    using HelixHub.Foundation.DynamicRendering.Exception;
     using HelixHub.Foundation.DynamicRendering.Kernel;
 
     using Sitecore.Data;
@@ -16,7 +17,16 @@
             var renderingParameters = RenderingContext.Current.Rendering.Parameters;
             var viewIdString = renderingParameters["Dynamic View"];
 
-            var viewItem = Sitecore.Context.Database.GetItem(new ID(viewIdString));
+            if (!ID.TryParse(viewIdString, out var viewId))
+            {
+                throw new DynamicViewException("Dynamic View is not set.");
+            }
+
+            var viewItem = Sitecore.Context.Database.GetItem(viewId);
+            if (viewItem == null)
+            {
+                throw new DynamicViewException("Dynamic View is null.");
+            }
 
             return new RenderingEngine(helper).RenderDynamicView(item, viewItem);
         }

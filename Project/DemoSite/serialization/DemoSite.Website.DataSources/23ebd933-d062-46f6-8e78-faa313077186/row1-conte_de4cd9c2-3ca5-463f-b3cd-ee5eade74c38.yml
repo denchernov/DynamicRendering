@@ -2,7 +2,7 @@
 ID: "de4cd9c2-3ca5-463f-b3cd-ee5eade74c38"
 Parent: "23ebd933-d062-46f6-8e78-faa313077186"
 Template: "186fc816-f850-4c8a-ae52-2921eee57351"
-Path: "/sitecore/content/DataSources/Content/content-vasily"
+Path: "/sitecore/content/DataSources/Content/row1-content2"
 DB: master
 Languages:
 - Language: en
