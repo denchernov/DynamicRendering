@@ -1,0 +1,17 @@
+﻿---
+ID: "efabd7be-a05e-4260-95b5-1e5fc18f2f95"
+Parent: "cc470206-236c-4c56-9b3f-b38095b6c7f9"
+Template: "c2324b55-9661-4126-9f87-9a218b2823f4"
+Path: "/sitecore/content/Rendering Views/Card/Separator/Container-hr"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190906T121657Z
+    - ID: "577a60e6-49c7-419b-8b81-4c7033f4519f"
+      Hint: element
+      Value: hr
