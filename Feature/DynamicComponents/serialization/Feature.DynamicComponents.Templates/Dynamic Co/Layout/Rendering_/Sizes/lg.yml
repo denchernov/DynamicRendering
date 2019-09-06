@@ -1,0 +1,25 @@
+﻿---
+ID: "e0198ba3-9a03-4b9b-a46c-223e9af176ad"
+Parent: "3a9143a4-ebd9-40f3-b794-5708b6908223"
+Template: "aa65dca3-22c5-4fae-866d-ac29b9178ba2"
+Path: /sitecore/templates/Feature/Dynamic Components/Layout/Rendering Parameters/Sizes/lg
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190906T091653Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "975a997c-d824-490c-b6b4-f599c47d2a08"
+      Hint: Value
+      Value: lg
