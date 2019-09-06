@@ -1,0 +1,28 @@
+﻿---
+ID: "ead4f162-1ff9-4fd0-a6f2-f95d2895b411"
+Parent: "23ebd933-d062-46f6-8e78-faa313077186"
+Template: "186fc816-f850-4c8a-ae52-2921eee57351"
+Path: "/sitecore/content/DataSources/Content/block-image-left-1"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190906T120113Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "6854bef8-3d15-4731-8b79-fe4dcccc4e79"
+      Hint: Description
+      Value: Lorem ipsum dolor sit amet consectetur adipiscing elit magna, iaculis quam feugiat tortor vehicula in laoreet commodo rhoncus, sem morbi nisi interdum ornare malesuada dui. Scelerisque tempor ligula vel posuere rhoncus augue hendrerit aenean, justo porttitor potenti quisque viverra placerat nostra ultrices aptent, arcu risus turpis ridiculus molestie ornare torquent. Turpis nisl sociis purus accumsan nunc semper natoque, non nostra feugiat vehicula platea tellus hendrerit, etiam ante montes duis porttitor magna.Nullam luctus scelerisque aenean cum iaculis pulvinar suspendisse sollicitudin bibendum, lacus facilisi nibh blandit nisi auctor cursus senectus diam platea, consequat duis maecenas cras himenaeos id lobortis morbi. Etiam per venenatis auctor maecenas scelerisque semper sagittis dictum duis cras, est torquent suspendisse varius nibh volutpat tempus nullam placerat potenti platea, aenean vivamus dignissim dis ut erat mus praesent luctus. Interdum varius cursus volutpat ac a egestas nibh, nisi elementum habitasse mollis dictum fusce lacus, viverra mi ornare maecenas nullam risus.
+    - ID: "849868a8-e7cb-469f-ba78-61030b6e5b3c"
+      Hint: Title
+      Value: "Lunch at Hackaton. How was it?"
+    - ID: "e3de3ce6-45c4-4b84-920a-1debbd1be68f"
+      Hint: Image
+      Value: |
+        <image mediaid="{1508E497-ADE3-4F79-8ECA-625241D84EE5}" height="500" hspace="" width="500" alt="" vspace="" />
