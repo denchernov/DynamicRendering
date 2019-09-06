@@ -1,0 +1,32 @@
+﻿---
+ID: "de4cd9c2-3ca5-463f-b3cd-ee5eade74c38"
+Parent: "23ebd933-d062-46f6-8e78-faa313077186"
+Template: "186fc816-f850-4c8a-ae52-2921eee57351"
+Path: "/sitecore/content/DataSources/Content/content-vasily"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0ffb4888-693d-46a7-a38d-a16b695b0367"
+      Hint: Link
+      Value: |
+        <link text="View Agenda" anchor="" linktype="internal" class="" title=""  querystring="" id="{7D5667AD-98FE-478A-8F9E-D6856C06455D}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190906T080929Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "6854bef8-3d15-4731-8b79-fe4dcccc4e79"
+      Hint: Description
+      Value: Description goes here....
+    - ID: "849868a8-e7cb-469f-ba78-61030b6e5b3c"
+      Hint: Title
+      Value: "Hello world!"
+    - ID: "e3de3ce6-45c4-4b84-920a-1debbd1be68f"
+      Hint: Image
+      Value: |
+        <image mediaid="{E584000A-4379-498E-92CC-86A157A1EDF0}" alt="" height="140" width="140" hspace="" vspace=""></image>

@@ -13,6 +13,9 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "1bb57d7e-8b41-4123-b095-e2a998e1c47a"
+      Hint: Name
+      Value: Description
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20190906T060222Z
@@ -20,3 +23,6 @@ Languages:
       Hint: __Created by
       Value: |
         sitecore\admin
+    - ID: "e531ffc4-e450-4ed8-9146-5953a5d08a25"
+      Hint: wrapper
+      Value: p

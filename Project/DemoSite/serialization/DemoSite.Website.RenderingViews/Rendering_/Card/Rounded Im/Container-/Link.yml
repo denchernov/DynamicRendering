@@ -1,9 +1,13 @@
 ﻿---
-ID: "93c4597b-91bb-4e8d-bb03-470ec03a6e45"
+ID: "c6f76b3a-584e-4103-875c-5c369f89ed3c"
 Parent: "5f72540d-db5f-4f6b-9c58-64124f4645e5"
 Template: "5f82e319-ed3a-4ff4-8ab2-4d63f4e98f27"
-Path: "/sitecore/content/Rendering Views/Card/Rounded Image Text Description/Container-text-center/Title"
+Path: "/sitecore/content/Rendering Views/Card/Rounded Image Text Description/Container-text-center/Link"
 DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 250
 Languages:
 - Language: en
   Versions:
@@ -11,14 +15,17 @@ Languages:
     Fields:
     - ID: "1bb57d7e-8b41-4123-b095-e2a998e1c47a"
       Hint: Name
-      Value: Title
+      Value: Link
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20190906T060021Z
+      Value: 20190906T083146Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\admin
     - ID: "e531ffc4-e450-4ed8-9146-5953a5d08a25"
       Hint: wrapper
-      Value: h2
+      Value: p
+    - ID: "fd84fe11-8825-4742-a5e9-1bc0beb60d9d"
+      Hint: class
+      Value: "btn btn-primary"
