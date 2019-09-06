@@ -9,6 +9,10 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "0ffb4888-693d-46a7-a38d-a16b695b0367"
+      Hint: Link
+      Value: |
+        <link linktype="internal" text="More info" querystring="" target="" id="{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}" />
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20190906T112914Z
@@ -16,3 +20,13 @@ Languages:
       Hint: __Created by
       Value: |
         sitecore\admin
+    - ID: "6854bef8-3d15-4731-8b79-fe4dcccc4e79"
+      Hint: Description
+      Value: Integrate payment data
+    - ID: "849868a8-e7cb-469f-ba78-61030b6e5b3c"
+      Hint: Title
+      Value: Rood, wit, blauw
+    - ID: "e3de3ce6-45c4-4b84-920a-1debbd1be68f"
+      Hint: Image
+      Value: |
+        <image mediaid="{46D190C0-3653-47E5-AA23-D1E544017C56}" />

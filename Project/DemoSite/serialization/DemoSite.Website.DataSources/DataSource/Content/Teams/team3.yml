@@ -22,11 +22,11 @@ Languages:
         sitecore\admin
     - ID: "6854bef8-3d15-4731-8b79-fe4dcccc4e79"
       Hint: Description
-      Value: Blue angels
+      Value: Airport Validation Model
     - ID: "849868a8-e7cb-469f-ba78-61030b6e5b3c"
       Hint: Title
-      Value: Blue angels
+      Value: AI Airways
     - ID: "e3de3ce6-45c4-4b84-920a-1debbd1be68f"
       Hint: Image
       Value: |
-        <image mediaid="{E5F8375B-5637-4BEB-AA9A-A8F963F60EB9}" ></image>
+        <image mediaid="{62C4B89D-354E-4D03-B1FF-A08EF000D21A}" />
