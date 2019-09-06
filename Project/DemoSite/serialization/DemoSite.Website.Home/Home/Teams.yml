@@ -68,42 +68,42 @@ Languages:
               p:after="r[@uid='{AF5DD4B8-F16E-414A-9E3E-50CB3A94CE4E}']"
               s:ds=""
               s:id="{B7C77FF6-4FF9-4758-AFCE-8F44EDCBB730}"
-              s:par="Col Number=4&amp;Dynamic View"
+              s:par="Col Number=4&amp;Dynamic View&amp;size=md"
               s:ph="/main/container/dv-row-{0DEDCDC7-E3F1-4C55-9121-E6653085B0BF}-0" />
             <r
               uid="{C6014733-E59E-4408-8748-C5F895BE465C}"
               p:after="r[@uid='{29374E13-4D5D-4EFD-A28C-6CB90ADC9E61}']"
               s:ds=""
               s:id="{B7C77FF6-4FF9-4758-AFCE-8F44EDCBB730}"
-              s:par="Col Number=4&amp;Dynamic View"
+              s:par="Col Number=4&amp;Dynamic View&amp;size=md"
               s:ph="/main/container/dv-row-{0DEDCDC7-E3F1-4C55-9121-E6653085B0BF}-0" />
             <r
               uid="{8BE817F2-7528-466D-A067-E51C4F78D8AD}"
               p:after="r[@uid='{C6014733-E59E-4408-8748-C5F895BE465C}']"
               s:ds=""
               s:id="{B7C77FF6-4FF9-4758-AFCE-8F44EDCBB730}"
-              s:par="Col Number=4&amp;Dynamic View"
+              s:par="Col Number=4&amp;Dynamic View&amp;size=md"
               s:ph="/main/container/dv-row-{0DEDCDC7-E3F1-4C55-9121-E6653085B0BF}-0" />
             <r
               uid="{1FAD51D7-EBFC-443C-A210-99328C7246AA}"
               p:after="r[@uid='{8BE817F2-7528-466D-A067-E51C4F78D8AD}']"
               s:ds=""
               s:id="{B7C77FF6-4FF9-4758-AFCE-8F44EDCBB730}"
-              s:par="Col Number=4&amp;Dynamic View"
+              s:par="Col Number=4&amp;Dynamic View&amp;size=md"
               s:ph="/main/container/dv-row-{0DEDCDC7-E3F1-4C55-9121-E6653085B0BF}-0" />
             <r
               uid="{71AFAF53-B06E-46D3-8474-2097D0C98C03}"
               p:after="r[@uid='{1FAD51D7-EBFC-443C-A210-99328C7246AA}']"
               s:ds=""
               s:id="{B7C77FF6-4FF9-4758-AFCE-8F44EDCBB730}"
-              s:par="Col Number=4&amp;Dynamic View"
+              s:par="Col Number=4&amp;Dynamic View&amp;size=md"
               s:ph="/main/container/dv-row-{0DEDCDC7-E3F1-4C55-9121-E6653085B0BF}-0" />
             <r
               uid="{4C07D542-5D6C-46F9-9202-9EEB70DC5610}"
               p:after="r[@uid='{71AFAF53-B06E-46D3-8474-2097D0C98C03}']"
               s:ds=""
               s:id="{B7C77FF6-4FF9-4758-AFCE-8F44EDCBB730}"
-              s:par="Col Number=4&amp;Dynamic View"
+              s:par="Col Number=4&amp;Dynamic View&amp;size=md"
               s:ph="/main/container/dv-row-{0DEDCDC7-E3F1-4C55-9121-E6653085B0BF}-0" />
             <r
               uid="{0DEDCDC7-E3F1-4C55-9121-E6653085B0BF}"

@@ -11,7 +11,7 @@ Languages:
     Fields:
     - ID: "1bb57d7e-8b41-4123-b095-e2a998e1c47a"
       Hint: Name
-      Value: Description
+      Value: Rich Text
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20190906T105017Z
