@@ -1,5 +1,5 @@
 ﻿@model HelixHub.Feature.DynamicComponents.Models.ColumnModel
 @using Sitecore.Mvc
-<div class="col-md-@Model.ColumnNumber.ToString()">
+<div class="col-@Model.Size-@Model.ColumnNumber.ToString()">
     @Html.Sitecore().DynamicPlaceholder("dv-column")
 </div>

@@ -1,0 +1,28 @@
+﻿---
+ID: "86269dbf-d758-41d7-a22f-5e3ae648c0fc"
+Parent: "23ebd933-d062-46f6-8e78-faa313077186"
+Template: "186fc816-f850-4c8a-ae52-2921eee57351"
+Path: "/sitecore/content/DataSources/Content/block-image-right-1"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190906T105933Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "6854bef8-3d15-4731-8b79-fe4dcccc4e79"
+      Hint: Description
+      Value: Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.
+    - ID: "849868a8-e7cb-469f-ba78-61030b6e5b3c"
+      Hint: Title
+      Value: First featurette heading. It'll blow your mind.
+    - ID: "e3de3ce6-45c4-4b84-920a-1debbd1be68f"
+      Hint: Image
+      Value: |
+        <image mediaid="{E584000A-4379-498E-92CC-86A157A1EDF0}" alt="" height="500" width="500" hspace="" vspace="" ></image>
